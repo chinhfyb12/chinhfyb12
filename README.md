@@ -16,4 +16,4 @@
 <a href="https://github.com/chinhfyb12" align="start"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chinhfyb12&theme=gotham&hide_langs_below=1" alt="chinhfyb12" />
   
  📈 My GitHub Stats
-<a href="https://github.com/chinhfyb12" align="center"> <img src="https://github-readme-stats.vercel.app/api?username=chinhfyb12&show_icons=true&theme=gotham" alt="chinhfyb12" />
+<p align="center"><a href="https://github.com/chinhfyb12" align="center"> <img src="https://github-readme-stats.vercel.app/api?username=chinhfyb12&show_icons=true&theme=gotham" alt="chinhfyb12" />
