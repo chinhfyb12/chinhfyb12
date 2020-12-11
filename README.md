@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi, I'm [Chỉnh](https://chinhfyb12.github.io) 👋
 
-<!--
-**chinhfyb12/chinhfyb12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-Here are some ideas to get you started:
+**Talking about Personal Stuffs:**
+- 🔭 I’m currently a student.
+- 🌱 I’m currently learning more about React-Redux & C#.
+- 📫 How to reach me: [Facebook](https://www.facebook.com/pdc0102), [LinkedIn](https://www.linkedin.com/in/phạm-chỉnh-a244971a7), [Instagram](https://www.instagram.com/chinhfyb12)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Languages and Tools:**
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+
+<p align="start"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chinhfyb12&theme=gotham&hide_langs_below=1" alt="abhisheknaiidu" />
+<p align="end"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
