@@ -4,7 +4,7 @@
 
 **Talking about Personal Stuffs:**
 - 🔭 I’m currently a student.
-- 🌱 I’m currently learning more about React-Redux & C#.
+- 🌱 I’m currently learning more about React-Redux & React Native.
 - 📫 How to reach me: [Facebook](https://www.facebook.com/pdc0102), [LinkedIn](https://www.linkedin.com/in/phạm-chỉnh-a244971a7), [Instagram](https://www.instagram.com/chinhfyb12)
 
 **Languages and Tools:**
